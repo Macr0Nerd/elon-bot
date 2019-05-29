@@ -1,9 +1,9 @@
 import random, tweepy
 
-consumer_key = 'evlWonT3JgShyGS8BItYKHtpd'
-consumer_secret = 'efipngAwtRHGetRokhunl7M6NXL9jcy1dYe3G5Wf2n1L7u4oyf'
-access_token_key = '1130843735074443265-JZ2C9XcjZYmehvRXhjZr8Aw5i0vKQs'
-access_token_secret = 'm2aYuuO0vzwppltvgglQGX30eMZWzy5sD3QwHjIuRJ9PC'
+consumer_key = ''
+consumer_secret = ''
+access_token_key = ''
+access_token_secret = ''
 
 auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
 auth.set_access_token(access_token_key, access_token_secret)
