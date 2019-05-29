@@ -1,4 +1,4 @@
-import sys, random, tweepy
+import random, tweepy
 
 consumer_key = 'evlWonT3JgShyGS8BItYKHtpd'
 consumer_secret = 'efipngAwtRHGetRokhunl7M6NXL9jcy1dYe3G5Wf2n1L7u4oyf'
